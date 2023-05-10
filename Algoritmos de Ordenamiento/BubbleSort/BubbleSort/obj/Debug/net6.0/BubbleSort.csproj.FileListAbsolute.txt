@@ -1,0 +1,30 @@
+C:\DotNetGeeks\Ordenamiento\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.exe
+C:\DotNetGeeks\Ordenamiento\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.deps.json
+C:\DotNetGeeks\Ordenamiento\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.runtimeconfig.json
+C:\DotNetGeeks\Ordenamiento\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.dll
+C:\DotNetGeeks\Ordenamiento\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.pdb
+C:\DotNetGeeks\Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.AssemblyReference.cache
+C:\DotNetGeeks\Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetGeeks\Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfoInputs.cache
+C:\DotNetGeeks\Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfo.cs
+C:\DotNetGeeks\Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\DotNetGeeks\Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.dll
+C:\DotNetGeeks\Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\refint\BubbleSort.dll
+C:\DotNetGeeks\Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.pdb
+C:\DotNetGeeks\Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.genruntimeconfig.cache
+C:\DotNetGeeks\Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\ref\BubbleSort.dll
+C:\Users\dotne\Documents\DotNetGeeksProjects\Algoritmos\Algoritmos de Ordenamiento\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.exe
+C:\Users\dotne\Documents\DotNetGeeksProjects\Algoritmos\Algoritmos de Ordenamiento\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.deps.json
+C:\Users\dotne\Documents\DotNetGeeksProjects\Algoritmos\Algoritmos de Ordenamiento\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.runtimeconfig.json
+C:\Users\dotne\Documents\DotNetGeeksProjects\Algoritmos\Algoritmos de Ordenamiento\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.dll
+C:\Users\dotne\Documents\DotNetGeeksProjects\Algoritmos\Algoritmos de Ordenamiento\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.pdb
+C:\Users\dotne\Documents\DotNetGeeksProjects\Algoritmos\Algoritmos de Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.AssemblyReference.cache
+C:\Users\dotne\Documents\DotNetGeeksProjects\Algoritmos\Algoritmos de Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dotne\Documents\DotNetGeeksProjects\Algoritmos\Algoritmos de Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\dotne\Documents\DotNetGeeksProjects\Algoritmos\Algoritmos de Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfo.cs
+C:\Users\dotne\Documents\DotNetGeeksProjects\Algoritmos\Algoritmos de Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\dotne\Documents\DotNetGeeksProjects\Algoritmos\Algoritmos de Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.dll
+C:\Users\dotne\Documents\DotNetGeeksProjects\Algoritmos\Algoritmos de Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\refint\BubbleSort.dll
+C:\Users\dotne\Documents\DotNetGeeksProjects\Algoritmos\Algoritmos de Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.pdb
+C:\Users\dotne\Documents\DotNetGeeksProjects\Algoritmos\Algoritmos de Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.genruntimeconfig.cache
+C:\Users\dotne\Documents\DotNetGeeksProjects\Algoritmos\Algoritmos de Ordenamiento\BubbleSort\BubbleSort\obj\Debug\net6.0\ref\BubbleSort.dll
